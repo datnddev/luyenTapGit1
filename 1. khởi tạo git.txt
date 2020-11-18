@@ -6,6 +6,6 @@
 	git remote add origin your_link_repository
 4. push
 	git push -u origin yourBranch
-hihi, da sua conflig ne
+5. hihi, test ne
 
 	
