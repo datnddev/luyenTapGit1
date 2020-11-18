@@ -1,0 +1,11 @@
+1. khởi tạo git
+	git init
+2. commit: ghi lại việc thêm/ thay đổi thư mục vào repository
+	git commit hoặc git commit -m "yỏur message"
+3. remote
+	git remote add origin your_link_repository
+4. push
+	git push -u origin yourBranch
+hihi, da sua conflig ne
+
+	
