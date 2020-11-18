@@ -7,5 +7,5 @@
 4. push
 	git push -u origin yourBranch
 5. hihi, test ne
-
+hihi, confflig
 	
